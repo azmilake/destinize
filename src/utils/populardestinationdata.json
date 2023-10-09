@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "place": "Labuan Bajo",
+    "island": "NTT",
+    "picture": "/destination-1.jpg"
+  },
+  {
+    "id": 2,
+    "place": "Bromo",
+    "island": "Jawa Timur",
+    "picture": "/destination-2.jpg"
+  },
+  {
+    "id": 3,
+    "place": "Raja Ampat",
+    "island": "Papua",
+    "picture": "/destination-3.jpg"
+  },
+  {
+    "id": 4,
+    "place": "Prambanan",
+    "island": "Jawa Tengah",
+    "picture": "/destination-4.jpg"
+  }
+]

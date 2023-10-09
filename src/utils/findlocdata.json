@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "icon": "/icon-loc.svg",
+    "name": "Populer di dekatmu",
+    "desc": "Tempat pariwisata yang populer dan pasti dikenal semua orang didekatmu"
+  },
+  {
+    "id": 2,
+    "icon": "/icon-favorite.svg",
+    "name": "Favorit di dekatmu",
+    "desc": " Tempat favorit dan disukai semua orang orang di sekitar daerah kamu"
+  },
+  {
+    "id": 3,
+    "icon": "/icon-people.svg",
+    "name": "Ramai di didekatmu",
+    "desc": "Spot yang paling ramai dikunjungi para warga sekaligus para wisatawan"
+  }
+]

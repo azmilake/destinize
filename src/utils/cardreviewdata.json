@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "image": "/testi-1-1.jpg",
+    "review": "Destinize membantu saya Mencari spot tempat wisata baru di Indonesia dengan Mudah",
+    "name": "John Way",
+    "location": "Bikini Bottom"
+  },
+  {
+    "id": 2,
+    "image": "/testi-1-1.jpg",
+    "review": "Destinize membantu saya Mencari spot tempat wisata baru di Indonesia dengan Mudah",
+    "name": "John Way",
+    "location": "Bikini Bottom"
+  },
+  {
+    "id": 3,
+    "image": "/testi-1-1.jpg",
+    "review": "Destinize membantu saya Mencari spot tempat wisata baru di Indonesia dengan Mudah",
+    "name": "John Way",
+    "location": "Bikini Bottom"
+  }
+]
